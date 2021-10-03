@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212458486016",
+    "project_id": "dscfirebaseapp",
+    "storage_bucket": "dscfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212458486016:android:9919f1199e25394b295be5",
+        "android_client_info": {
+          "package_name": "com.ronnie.dsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212458486016-bq3mfkgk0lj7vk67pkqbjl0v7875pp2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQot35ynVEsb4p7R-TFwYrMsTQmWjMVk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212458486016-bq3mfkgk0lj7vk67pkqbjl0v7875pp2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
